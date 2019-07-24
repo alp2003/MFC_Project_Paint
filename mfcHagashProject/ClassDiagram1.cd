@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mfcHagashProjectDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CmfcHagashProjectApp" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAA=</HashCode>
+      <FileName>mfcHagashProject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CmfcHagashProjectDlg" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lgCKGEFSApGAoAAmGPEFBARLABwKQJUwQpAVSwh0FAE=</HashCode>
+      <FileName>mfcHagashProjectDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyEllipse" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>MyEllipse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLine" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>MyLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRectangle" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>MyRectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRoundedRect" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>MyRoundedRect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyShape" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIgIECGAAAABAAAAIDAIAQACgAgAAAAAAgADAAAAA=</HashCode>
+      <FileName>MyShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySquare" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>MySquare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyTriangle" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>MyTriangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
